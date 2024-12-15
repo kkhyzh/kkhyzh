@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kkhyzh
+- 👀 I’m interested in doing some javascript
+- 🌱 I’m currently learning javascript
